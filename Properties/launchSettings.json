@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CheckCert": {
+      "commandName": "Project",
+      "commandLineArgs": "--hostname autodiscover.hud.cz --dns-server 10.0.10.50,1.1.1.1"
+    }
+  }
+}
